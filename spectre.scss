@@ -1,0 +1,37 @@
+// Copyright 2016 Spectre.css
+// Licensed under MIT Open Source
+
+// Core variables
+@import 'src/scss/variables.scss';
+
+// Reset and dependencies
+@import 'src/scss/normalize.scss';
+@import 'src/scss/base.scss';
+
+// Core classes
+@import 'src/scss/typography.scss';
+@import 'src/scss/media.scss';
+@import 'src/scss/tables.scss';
+@import 'src/scss/buttons.scss';
+@import 'src/scss/forms.scss';
+
+// Layout
+@import 'src/scss/layout.scss';
+@import 'src/scss/empty.scss';
+
+// Components
+@import 'src/scss/avatars.scss';
+@import 'src/scss/animations.scss';
+@import 'src/scss/autocomplete.scss';
+@import 'src/scss/badges.scss';
+@import 'src/scss/cards.scss';
+@import 'src/scss/chips.scss';
+@import 'src/scss/labels.scss';
+@import 'src/scss/menus.scss';
+@import 'src/scss/modals.scss';
+@import 'src/scss/navigation.scss';
+@import 'src/scss/toasts.scss';
+@import 'src/scss/tooltips.scss';
+
+// Utility classes
+@import 'src/scss/utilities.scss';
